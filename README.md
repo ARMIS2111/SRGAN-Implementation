@@ -1,4 +1,4 @@
-# SRGAN-Implementation
+# Super-Resolution-of-Images
 The need for superresolution of images arises from the fact that in many applications, such as medical imaging, surveillance, and remote sensing, it is 
 often necessary to obtain high-resolution images with more details and clarity than the original images. However, acquiring high-resolution images can be 
 difficult, expensive, or impractical due to various reasons such as hardware limitations, storage constraints, or limitations in data transmission.
